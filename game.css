@@ -290,8 +290,6 @@ footer {
     padding-top: 10px;
 }
 
-.footer-img h1 {}
-
 footer p {
     color: white;
     text-align: center;
@@ -510,7 +508,7 @@ footer p {
     .goat {
         font-size: 50px;
         background: -webkit-linear-gradient(#F948B2, #8758F1);
-        -webkit-background-clip: text;
+        /* -webkit-background-clip: text; */
         -webkit-text-fill-color: transparent;
     }
 
